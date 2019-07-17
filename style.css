@@ -68,6 +68,7 @@ body {
   font-weight: 900;
   font-size: 20px;
   color: white;
+  transition: 0.4s;
 }
 
 .btn-blue:hover{
